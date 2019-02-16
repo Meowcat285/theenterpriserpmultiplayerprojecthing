@@ -1,0 +1,1486 @@
+﻿Log file open, 11/20/17 14:20:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MP_SK
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-595762901) SRandInit(-595762901).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167652
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GAMES/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.20-12.20.56:132][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.20-12.20.56:132][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.20-12.20.56:191][  0]LogInit: Computer: WIN-UJSDDQRV49J
+[2017.11.20-12.20.56:191][  0]LogInit: User: User
+[2017.11.20-12.20.56:191][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.20-12.20.56:191][  0]LogInit: High frequency timer resolution =3.323584 MHz
+[2017.11.20-12.20.56:191][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.20-12.20.56:191][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.20-12.20.56:191][  0]LogMemory: Process Physical Memory: 274.33 MB used, 274.33 MB peak
+[2017.11.20-12.20.56:191][  0]LogMemory: Process Virtual Memory: 270.00 MB used, 270.00 MB peak
+[2017.11.20-12.20.56:191][  0]LogMemory: Physical Memory: 5409.16 MB used,  2673.37 MB free, 8082.53 MB total
+[2017.11.20-12.20.56:191][  0]LogMemory: Virtual Memory: 646.64 MB used,  2673.37 MB free, 134217728.00 MB total
+[2017.11.20-12.20.56:573][  0]LogInit: Using OS detected language (ru-RU).
+[2017.11.20-12.20.56:573][  0]LogInit: Using OS detected locale (ru-RU).
+[2017.11.20-12.20.56:654][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2017.11.20-12.20.56:654][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2017.11.20-12.20.57:398][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.20-12.20.58:092][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.20-12.20.58:146][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 670' (Feature Level 11_0)
+[2017.11.20-12.20.58:146][  0]LogD3D11RHI:       2017/0/4041 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.20-12.20.58:153][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics' (Feature Level 11_0)
+[2017.11.20-12.20.58:153][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.20-12.20.58:154][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.20-12.20.58:154][  0]LogD3D11RHI:       0/0/4041 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.20-12.20.58:154][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.20-12.20.58:158][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.20-12.20.58:159][  0]LogD3D11RHI:     GPU DeviceId: 0x1189 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.20-12.20.58:159][  0]LogWindows: EnumDisplayDevices:
+[2017.11.20-12.20.58:159][  0]LogWindows:    0. 'NVIDIA GeForce GTX 670' (P:1 D:1)
+[2017.11.20-12.20.58:159][  0]LogWindows:    1. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.11.20-12.20.58:159][  0]LogWindows:    2. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.11.20-12.20.58:159][  0]LogWindows:    3. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.11.20-12.20.58:159][  0]LogWindows:    4. 'Intel(R) HD Graphics' (P:0 D:0)
+[2017.11.20-12.20.58:160][  0]LogWindows:    5. 'Intel(R) HD Graphics' (P:0 D:0)
+[2017.11.20-12.20.58:160][  0]LogWindows:    6. 'Intel(R) HD Graphics' (P:0 D:0)
+[2017.11.20-12.20.58:160][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.20-12.20.58:160][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 670
+[2017.11.20-12.20.58:160][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2017.11.20-12.20.58:160][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2017.11.20-12.20.58:160][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2017.11.20-12.20.58:188][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.20-12.20.58:199][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.20-12.20.58:248][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (D:/User/Downloads/MP_SK/Intermediate/Shaders/WorkingDirectory/10984/).
+[2017.11.20-12.20.58:248][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/4526161C4FA68AF5E9BD099F8679068D/'.
+[2017.11.20-12.20.58:248][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.20-12.21.00:129][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.20-12.21.00:180][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.20-12.21.00:228][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.20-12.21.00:276][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.20-12.21.00:331][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.20-12.21.00:421][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.20-12.21.00:469][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.20-12.21.00:517][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.20-12.21.00:558][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.20-12.21.00:603][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.20-12.21.00:650][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.20-12.21.00:697][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.20-12.21.00:745][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.20-12.21.00:793][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.20-12.21.00:910][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.20-12.21.00:910][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.20-12.21.00:975][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.20-12.21.01:010][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.20-12.21.01:147][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.20-12.21.01:172][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.20-12.21.01:217][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.20-12.21.01:263][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.20-12.21.01:309][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.20-12.21.01:368][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.20-12.21.01:368][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.20-12.21.02:207][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.20-12.21.02:576][  0]LogDerivedDataCache: Loaded boot cache 0.37s 78MB C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.20-12.21.02:576][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.20-12.21.02:576][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/User/Downloads/MP_SK/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.20-12.21.02:576][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.20-12.21.02:577][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/User/Downloads/MP_SK/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.20-12.21.02:577][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.20-12.21.02:595][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.20-12.21.02:607][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.20-12.21.02:619][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.20-12.21.02:619][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.20-12.21.02:652][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.20-12.21.02:652][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.20-12.21.05:744][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.20-12.21.06:290][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.20-12.21.06:324][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.20-12.21.06:324][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.20-12.21.06:324][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.20-12.21.06:324][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.20-12.21.06:324][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.20-12.21.06:354][  0]LogNetVersion: MP_SK , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2458133447)
+[2017.11.20-12.21.06:515][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2017.11.20-12.21.07:054][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.082961 seconds
+[2017.11.20-12.21.07:060][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2017.11.20-12.21.07:060][  0]LogUObjectAllocator: 7585960 out of 0 bytes used by permanent object pool.
+[2017.11.20-12.21.07:060][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.20-12.21.39:234][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.20-12.21.39:342][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.20-12.21.40:325][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.20-12.21.40:840][  0]SourceControl: Source control is disabled
+[2017.11.20-12.21.40:840][  0]SourceControl: Source control is disabled
+[2017.11.20-12.21.40:895][  0]SourceControl: Source control is disabled
+[2017.11.20-12.21.40:963][  0]SourceControl: Source control is disabled
+[2017.11.20-12.21.41:898][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.20-12.21.42:269][  0]LogOcInput: OculusInput pre-init called
+[2017.11.20-12.21.42:631][  0]LogEngine: Initializing Engine...
+[2017.11.20-12.21.42:633][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.20-12.21.42:884][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.20-12.21.42:884][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.20-12.21.43:024][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.20-12.21.43:037][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-12.21.43:050][  0]LogInit: FAudioDevice initialized.
+[2017.11.20-12.21.43:140][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.20-12.21.43:159][  0]LogInit: Texture streaming: Enabled
+[2017.11.20-12.21.43:405][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.20-12.21.43:692][  0]LogInit: Transaction tracking system initialized
+[2017.11.20-12.21.44:271][  0]BlueprintLog: New page: Editor Load
+[2017.11.20-12.21.46:640][  0]LocalizationService: Localization service is disabled
+[2017.11.20-12.21.48:911][  0]LogConsoleResponse: Display: 
+[2017.11.20-12.21.49:547][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.20-12.21.49:547][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.20-12.21.49:547][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.20-12.21.50:515][  0]LogFileCache: Scanning file cache for directory 'D:/User/Downloads/MP_SK/Content/' took 0.02s
+[2017.11.20-12.21.53:245][  0]SourceControl: Source control is disabled
+[2017.11.20-12.21.53:246][  0]Cmd: MAP LOAD FILE="D:/User/Downloads/MP_SK/Content/MP_SK/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.20-12.21.53:247][  0]LightingResults: New page: Lighting Build
+[2017.11.20-12.21.53:310][  0]MapCheck: New page: Map Check
+[2017.11.20-12.21.53:310][  0]LightingResults: New page: Lighting Build
+[2017.11.20-12.21.54:110][  0]LogBlueprint: Error: [Compiler HostGameMenu] Internal Compiler Error: Tried to create a property MapName in scope SKEL_HostGameMenu_C, but another object (StrProperty MapName) already already exists there.
+[2017.11.20-12.21.54:110][  0]LogBlueprint: Error: [Compiler HostGameMenu] Internal Compiler Error: Tried to create a property MapDescription in scope SKEL_HostGameMenu_C, but another object (TextProperty MapDescription) already already exists there.
+[2017.11.20-12.21.54:214][  0]LogBlueprint: Error: [Compiler HostGameMenu] Internal Compiler Error: Tried to create a property MapName in scope HostGameMenu_C, but another object (StrProperty MapName) already already exists there.
+[2017.11.20-12.21.54:214][  0]LogBlueprint: Error: [Compiler HostGameMenu] Internal Compiler Error: Tried to create a property MapDescription in scope HostGameMenu_C, but another object (TextProperty MapDescription) already already exists there.
+[2017.11.20-12.21.54:402][  0]LogBlueprint: Warning: [Compiler HostGameMenu] [0067.46] Compile of HostGameMenu failed. 4 Fatal Issue(s) 0 Warning(s) [in 293 ms] (/Game/MP_SK/UI/MainMenu/HostGameMenu.HostGameMenu)
+[2017.11.20-12.21.54:939][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.21.54:940][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.20-12.21.54:962][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.20-12.21.55:025][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.04ms to complete.
+[2017.11.20-12.21.55:025][  0]LogFileHelpers: Loading map 'MainMenu' took 1.779
+[2017.11.20-12.21.55:243][  0]LogCollectionManager: Loaded 0 collections in 0.001085 seconds
+[2017.11.20-12.21.55:361][  0]LogFileCache: Scanning file cache for directory 'D:/User/Downloads/MP_SK/Saved/Collections/' took 0.01s
+[2017.11.20-12.21.55:362][  0]LogFileCache: Scanning file cache for directory 'D:/User/Downloads/MP_SK/Content/Developers/User/Collections/' took 0.01s
+[2017.11.20-12.21.55:362][  0]LogFileCache: Scanning file cache for directory 'D:/User/Downloads/MP_SK/Content/Collections/' took 0.01s
+[2017.11.20-12.21.55:362][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.20-12.21.55:372][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2365 classes and 522 folders.
+[2017.11.20-12.21.55:424][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.20-12.21.57:358][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.20-12.21.57:427][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.11.20-12.21.57:567][  0]LogSlate: Took 0.014482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.20-12.21.57:591][  0]LogSlate: Took 0.022704 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.20-12.21.57:614][  0]LogSlate: Took 0.016456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.20-12.21.57:773][  0]LogRenderer: Reallocating scene render targets to support 1156x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.20-12.21.58:069][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.20-12.21.58:069][  0]LogLoad: (Engine Initialization) Total time: 71.13 seconds
+[2017.11.20-12.21.58:069][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.20-12.21.58:069][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.20-12.21.58:069][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.20-12.21.58:450][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.20-12.21.58:495][  0]LogSlate: Took 0.001302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.20-12.21.59:114][  2]LogAssetRegistry: Asset discovery search completed in 52.6205 seconds
+[2017.11.20-12.21.59:116][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.20-12.21.59:117][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000106 seconds (updated 0 objects)
+[2017.11.20-12.23.13:665][515]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-12.23.13:817][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.23.13:817][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-12.23.27:863][997]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.20-12.23.28:257][997]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2017.11.20-12.23.29:271][997]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.20-12.23.29:291][997]LogSlate: Took 0.019118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.20-12.23.30:475][ 53]LogSlate: Took 0.015636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.20-12.23.49:108][464]LogSlate: Took 0.052245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.11.20-12.23.52:260][622]BlueprintLog: New page: Compile HostGameMenu
+[2017.11.20-12.23.52:371][622]LogBlueprint: Error: [Compiler HostGameMenu] Binding: Property ' Text Delegate ' on Widget ' MapName ': Member:MapName Unable to bind Object Property, unsupported type.
+[2017.11.20-12.23.52:371][622]LogBlueprint: Error: [Compiler HostGameMenu] Binding: Property ' Text Delegate ' on Widget ' MapDescription ': Member:MapDescription Unable to bind Object Property, unsupported type.
+[2017.11.20-12.23.52:433][622]LogBlueprint: Warning: [Compiler HostGameMenu] [0185.49] Compile of HostGameMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 172 ms] (/Game/MP_SK/UI/MainMenu/HostGameMenu.HostGameMenu)
+[2017.11.20-12.23.58:649][913]BlueprintLog: New page: Compile HostGameMenu
+[2017.11.20-12.23.59:243][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP_SK/UI/MainMenu/HostGameMenu" FILE="D:/User/Downloads/MP_SK/Content/MP_SK/UI/MainMenu/HostGameMenu.uasset" SILENT=true
+[2017.11.20-12.23.59:495][934]LogSavePackage: Save=245.48ms
+[2017.11.20-12.23.59:495][934]LogSavePackage: Moving 'D:/User/Downloads/MP_SK/Saved/HostGameMenuA315F341470FB55778BB7782046E9362.tmp' to 'D:/User/Downloads/MP_SK/Content/MP_SK/UI/MainMenu/HostGameMenu.uasset'
+[2017.11.20-12.23.59:499][934]LogSavePackage: Display: Finished SavePackage D:/User/Downloads/MP_SK/Content/MP_SK/UI/MainMenu/HostGameMenu.uasset
+[2017.11.20-12.24.03:785][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.24.03:785][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-12.24.03:785][385]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.24.03:785][385]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.20-12.24.03:786][385]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.20-12.24.03:786][385]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.20-12.24.03:786][385]LogOnline: Warning: STEAM: Steam API disabled!
+[2017.11.20-12.24.03:786][385]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2017.11.20-12.24.03:812][385]PIE: New page: PIE session: MainMenu (Nov 20, 2017, 4:24:03 PM)
+[2017.11.20-12.24.03:855][385]LogPlayLevel: Creating play world package: /Game/MP_SK/Maps/UEDPIE_1_MainMenu
+[2017.11.20-12.24.03:856][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001293s)
+[2017.11.20-12.24.03:857][385]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.24.03:857][385]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2017.11.20-12.24.03:857][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP_SK/Maps/MainMenu.MainMenu to /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu (0.002469s)
+[2017.11.20-12.24.03:889][385]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-12.24.03:900][385]LogInit: FAudioDevice initialized.
+[2017.11.20-12.24.03:954][385]LogLoad: Game class is 'GameModeBase'
+[2017.11.20-12.24.03:955][385]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.20-14.24.03
+[2017.11.20-12.24.03:955][385]LogWorld: Bringing up level for play took: 0.000856
+[2017.11.20-12.24.04:020][385]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.11.20-12.24.04:038][385]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.04:038][385]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2017.11.20-12.24.04:038][385]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.04:039][385]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.20-12.24.04:039][385]LogInit: WinSock: I am WIN-UJSDDQRV49J (192.168.10.1:0)
+[2017.11.20-12.24.04:039][385]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.04:039][385]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2017.11.20-12.24.04:050][385]PIE: Play in editor start time for /Game/MP_SK/Maps/UEDPIE_1_MainMenu 0.921
+[2017.11.20-12.24.04:052][385]PIE: New page: PIE session: MainMenu (Nov 20, 2017, 4:24:04 PM)
+[2017.11.20-12.24.04:100][385]LogNet: Browse: 127.0.0.1:17777//Game/MP_SK/Maps/MainMenu
+[2017.11.20-12.24.04:100][385]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.04:100][385]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2017.11.20-12.24.04:100][385]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.20-12.24.04:100][385]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.20-12.24.04:100][385]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.04:101][385]LogNet: Game client on port 17777, rate 10000
+[2017.11.20-12.24.04:104][385]PIE: Play in editor start time for /Game/MP_SK/Maps/MainMenu 0.975
+[2017.11.20-12.24.04:106][385]PIE: New page: PIE session: MainMenu (Nov 20, 2017, 4:24:04 PM)
+[2017.11.20-12.24.04:157][385]LogNet: Browse: 127.0.0.1:17777//Game/MP_SK/Maps/MainMenu
+[2017.11.20-12.24.04:157][385]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.04:157][385]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2017.11.20-12.24.04:157][385]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.20-12.24.04:157][385]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.20-12.24.04:158][385]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.04:158][385]LogNet: Game client on port 17777, rate 10000
+[2017.11.20-12.24.04:164][385]PIE: Play in editor start time for /Game/MP_SK/Maps/MainMenu 1.034
+[2017.11.20-12.24.04:177][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.24.04:179][385]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:1035
+[2017.11.20-12.24.04:179][385]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 034144095189232016233039117058224055077173104239253112110053
+[2017.11.20-12.24.04:179][385]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:1047
+[2017.11.20-12.24.04:179][385]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 013067117202195079189179242131192254161225183122020110053220
+[2017.11.20-12.24.04:200][385]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 034144095189232016233039117058224055077173104239253112110053
+[2017.11.20-12.24.04:201][385]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 013067117202195079189179242131192254161225183122020110053220
+[2017.11.20-12.24.04:227][385]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.11.20-12.24.04:349][386]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:1035
+[2017.11.20-12.24.04:349][386]LogHandshake: SendChallengeAck. InCookie: 034144095189232016233039117058224055077173104239253112110053
+[2017.11.20-12.24.04:350][386]LogNet: Server accepting post-challenge connection from: 127.0.0.1:1035
+[2017.11.20-12.24.04:350][386]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.04:350][386]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 11/20/17 14:24:04, [UNetConnection] RemoteAddr: 127.0.0.1:1035, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.04:350][386]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:1035, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.04:350][386]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:1047
+[2017.11.20-12.24.04:350][386]LogHandshake: SendChallengeAck. InCookie: 013067117202195079189179242131192254161225183122020110053220
+[2017.11.20-12.24.04:350][386]LogNet: Server accepting post-challenge connection from: 127.0.0.1:1047
+[2017.11.20-12.24.04:350][386]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.04:350][386]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 11/20/17 14:24:04, [UNetConnection] RemoteAddr: 127.0.0.1:1047, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.04:350][386]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:1047, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.04:351][386]LogNetVersion: MP_SK 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4154339674)
+[2017.11.20-12.24.04:351][386]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.20-12.24.04:351][386]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.20-12.24.04:369][387]LogNet: NotifyAcceptingChannel Control 0 server World /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.11.20-12.24.04:369][387]LogNet: Remote platform little endian=1
+[2017.11.20-12.24.04:369][387]LogNet: This platform little endian=1
+[2017.11.20-12.24.04:369][387]LogNet: NotifyAcceptingChannel Control 0 server World /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.11.20-12.24.04:369][387]LogNet: Remote platform little endian=1
+[2017.11.20-12.24.04:369][387]LogNet: This platform little endian=1
+[2017.11.20-12.24.04:402][388]LogNet: Login request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-721BB72C4227344C84730D845CC9686E userId: WIN-UJSDDQRV49J-721BB72C4227344C84730D845CC9686E
+[2017.11.20-12.24.04:403][388]LogNet: Login request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-01D0A2514DB182CF31408F944536B68A userId: WIN-UJSDDQRV49J-01D0A2514DB182CF31408F944536B68A
+[2017.11.20-12.24.04:403][388]LogNet: Welcomed by server (Level: /Game/MP_SK/Maps/UEDPIE_1_MainMenu, Game: /Script/Engine.GameModeBase)
+[2017.11.20-12.24.04:405][388]LogLoad: LoadMap: 127.0.0.1:17777//Game/MP_SK/Maps/UEDPIE_1_MainMenu?game=/Script/Engine.GameModeBase
+[2017.11.20-12.24.04:427][388]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.24.04:427][388]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.04:428][388]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.20-14.24.04
+[2017.11.20-12.24.04:429][388]LogWorld: Bringing up level for play took: 0.000403
+[2017.11.20-12.24.04:429][388]LogLoad: Took 0.023458 seconds to LoadMap(/Game/MP_SK/Maps/UEDPIE_1_MainMenu)
+[2017.11.20-12.24.04:429][388]LogNet: Welcomed by server (Level: /Game/MP_SK/Maps/UEDPIE_1_MainMenu, Game: /Script/Engine.GameModeBase)
+[2017.11.20-12.24.04:429][388]LogLoad: LoadMap: 127.0.0.1:17777//Game/MP_SK/Maps/UEDPIE_1_MainMenu?game=/Script/Engine.GameModeBase
+[2017.11.20-12.24.04:448][388]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.24.04:448][388]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.04:449][388]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_3_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.20-14.24.04
+[2017.11.20-12.24.04:449][388]LogWorld: Bringing up level for play took: 0.000465
+[2017.11.20-12.24.04:449][388]LogLoad: Took 0.020176 seconds to LoadMap(/Game/MP_SK/Maps/UEDPIE_1_MainMenu)
+[2017.11.20-12.24.04:470][389]LogNet: Client netspeed is 10000
+[2017.11.20-12.24.04:470][389]LogNet: Join request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-721BB72C4227344C84730D845CC9686E?SplitscreenCount=1
+[2017.11.20-12.24.04:471][389]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.04:472][389]LogNet: Join succeeded: WIN-UJSDDQRV49J-721B
+[2017.11.20-12.24.04:472][389]LogNet: Client netspeed is 10000
+[2017.11.20-12.24.04:472][389]LogNet: Join request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-01D0A2514DB182CF31408F944536B68A?SplitscreenCount=1
+[2017.11.20-12.24.04:473][389]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.04:473][389]LogNet: Join succeeded: WIN-UJSDDQRV49J-01D0
+[2017.11.20-12.24.04:498][390]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.04:511][391]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.04:512][391]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.04:551][393]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.04:552][393]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.04:567][394]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.05:958][489]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2017.11.20-12.24.05:958][489]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.24.05:999][489]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.24.05:999][489]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.20-12.24.06:004][489]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.20-12.24.06:004][489]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.20-12.24.06:037][489]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.24.06:037][489]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.20-12.24.06:038][489]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.20-12.24.06:038][489]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.20-12.24.06:061][489]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.24.06:061][489]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.20-12.24.06:061][489]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.20-12.24.06:061][489]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.20-12.24.06:061][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.11.20-12.24.06:062][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.24.06:079][489]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:1047, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2
+[2017.11.20-12.24.06:079][489]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:1047, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, Channels: 12, Time: 2017.11.20-12.24.06
+[2017.11.20-12.24.06:079][489]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:1047, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2
+[2017.11.20-12.24.06:079][489]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:1035, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.24.06:079][489]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:1035, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 12, Time: 2017.11.20-12.24.06
+[2017.11.20-12.24.06:079][489]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:1035, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.24.06:079][489]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.24.06:079][489]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 12, Time: 2017.11.20-12.24.06
+[2017.11.20-12.24.06:080][489]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.24.06:080][489]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.24.06:080][489]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 12, Time: 2017.11.20-12.24.06
+[2017.11.20-12.24.06:080][489]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.24.06:083][489]LogExit: GameNetDriver None shut down
+[2017.11.20-12.24.06:083][489]LogExit: GameNetDriver None shut down
+[2017.11.20-12.24.06:084][489]LogExit: GameNetDriver None shut down
+[2017.11.20-12.24.06:102][490]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2017.11.20-12.24.06:102][490]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.24.06:102][490]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2017.11.20-12.24.06:102][490]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.24.06:102][490]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2017.11.20-12.24.06:102][490]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.24.08:592][784]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.20-12.24.08:601][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.24.08:602][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-12.24.08:603][784]PIE: New page: PIE session: MainMenu (Nov 20, 2017, 4:24:08 PM)
+[2017.11.20-12.24.08:604][784]LogPlayLevel: Creating play world package: /Game/MP_SK/Maps/UEDPIE_1_MainMenu
+[2017.11.20-12.24.08:605][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001286s)
+[2017.11.20-12.24.08:606][784]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.24.08:606][784]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2017.11.20-12.24.08:606][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP_SK/Maps/MainMenu.MainMenu to /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu (0.002526s)
+[2017.11.20-12.24.08:641][784]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-12.24.08:651][784]LogInit: FAudioDevice initialized.
+[2017.11.20-12.24.08:693][784]LogLoad: Game class is 'GameModeBase'
+[2017.11.20-12.24.08:694][784]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.20-14.24.08
+[2017.11.20-12.24.08:694][784]LogWorld: Bringing up level for play took: 0.000710
+[2017.11.20-12.24.08:707][784]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.08:707][784]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2017.11.20-12.24.08:707][784]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.08:707][784]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.20-12.24.08:708][784]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.08:708][784]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2017.11.20-12.24.08:714][784]PIE: Play in editor start time for /Game/MP_SK/Maps/UEDPIE_1_MainMenu -0.416
+[2017.11.20-12.24.08:716][784]PIE: New page: PIE session: MainMenu (Nov 20, 2017, 4:24:08 PM)
+[2017.11.20-12.24.08:778][784]LogNet: Browse: 127.0.0.1:17777//Game/MP_SK/Maps/MainMenu
+[2017.11.20-12.24.08:778][784]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.08:778][784]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2017.11.20-12.24.08:778][784]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.20-12.24.08:778][784]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.20-12.24.08:779][784]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.08:779][784]LogNet: Game client on port 17777, rate 10000
+[2017.11.20-12.24.08:783][784]PIE: Play in editor start time for /Game/MP_SK/Maps/MainMenu -0.346
+[2017.11.20-12.24.08:795][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.24.08:797][784]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:1049
+[2017.11.20-12.24.08:797][784]LogHandshake: SendConnectChallenge. Timestamp: 0.008565, Cookie: 028000102173181117064187235168026038216008120051016191180252
+[2017.11.20-12.24.08:798][784]LogHandshake: SendChallengeResponse. Timestamp: 0.008565, Cookie: 028000102173181117064187235168026038216008120051016191180252
+[2017.11.20-12.24.08:887][785]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:1049
+[2017.11.20-12.24.08:887][785]LogHandshake: SendChallengeAck. InCookie: 028000102173181117064187235168026038216008120051016191180252
+[2017.11.20-12.24.08:887][785]LogNet: Server accepting post-challenge connection from: 127.0.0.1:1049
+[2017.11.20-12.24.08:887][785]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.08:887][785]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 11/20/17 14:24:08, [UNetConnection] RemoteAddr: 127.0.0.1:1049, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.08:887][785]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:1049, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.08:888][785]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.20-12.24.08:898][786]LogNet: NotifyAcceptingChannel Control 0 server World /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.11.20-12.24.08:898][786]LogNet: Remote platform little endian=1
+[2017.11.20-12.24.08:898][786]LogNet: This platform little endian=1
+[2017.11.20-12.24.08:920][787]LogNet: Login request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-9150A03647938D8B36AED788FEE84E2A userId: WIN-UJSDDQRV49J-9150A03647938D8B36AED788FEE84E2A
+[2017.11.20-12.24.08:921][787]LogNet: Welcomed by server (Level: /Game/MP_SK/Maps/UEDPIE_1_MainMenu, Game: /Script/Engine.GameModeBase)
+[2017.11.20-12.24.08:921][787]LogLoad: LoadMap: 127.0.0.1:17777//Game/MP_SK/Maps/UEDPIE_1_MainMenu?game=/Script/Engine.GameModeBase
+[2017.11.20-12.24.08:941][787]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.24.08:942][787]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.08:945][787]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.20-14.24.08
+[2017.11.20-12.24.08:946][787]LogWorld: Bringing up level for play took: 0.002237
+[2017.11.20-12.24.08:946][787]LogLoad: Took 0.025135 seconds to LoadMap(/Game/MP_SK/Maps/UEDPIE_1_MainMenu)
+[2017.11.20-12.24.08:965][788]LogNet: Client netspeed is 10000
+[2017.11.20-12.24.08:965][788]LogNet: Join request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-9150A03647938D8B36AED788FEE84E2A?SplitscreenCount=1
+[2017.11.20-12.24.08:966][788]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.08:967][788]LogNet: Join succeeded: WIN-UJSDDQRV49J-9150
+[2017.11.20-12.24.09:005][791]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.09:046][794]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.24.15:378][328]LogNet: Browse: /Game/MP_SK/Maps/Lobby?listen
+[2017.11.20-12.24.15:378][328]LogLoad: LoadMap: /Game/MP_SK/Maps/Lobby?listen
+[2017.11.20-12.24.15:378][328]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2017.11.20-12.24.15:378][328]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2017.11.20-12.24.15:378][328]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:1049, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.24.15:378][328]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:1049, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.11.20-12.24.15
+[2017.11.20-12.24.15:378][328]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:1049, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.24.15:378][328]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2017.11.20-12.24.16:018][328]LogAIModule: Creating AISystem for world Lobby
+[2017.11.20-12.24.16:019][328]LogLoad: Game class is 'LobbyGM_C'
+[2017.11.20-12.24.16:019][328]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.16:019][328]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2017.11.20-12.24.16:019][328]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.16:019][328]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.20-12.24.16:019][328]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.16:020][328]LogNet: GameNetDriver IpNetDriver_5 IpNetDriver listening on port 7777
+[2017.11.20-12.24.16:020][328]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2017.11.20-14.24.16
+[2017.11.20-12.24.16:021][328]LogWorld: Bringing up level for play took: 0.000756
+[2017.11.20-12.24.16:021][328]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.20-12.24.16:026][328]LogLoad: Took 0.648704 seconds to LoadMap(/Game/MP_SK/Maps/Lobby)
+[2017.11.20-12.24.16:043][328]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.20-12.24.16:044][328]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.20-12.24.16:050][328]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.11.20-12.24.16:073][328]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2017.11.20-12.24.16
+[2017.11.20-12.24.16:073][328]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.24.16:073][328]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.20-12.24.16:073][328]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.20-12.24.16:073][328]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.11.20-12.24.16:120][329]LogNet: Browse: /Game/MP_SK/Maps/MainMenu?closed
+[2017.11.20-12.24.16:120][329]LogNet: Failed; returning to Entry
+[2017.11.20-12.24.16:134][329]LogLoad: LoadMap: /Game/MP_SK/Maps/MainMenu?closed
+[2017.11.20-12.24.16:134][329]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2017.11.20-12.24.16:134][329]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2017.11.20-12.24.16:135][329]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2017.11.20-12.24.16:153][329]LogPlayLevel: Creating play world package: /Game/MP_SK/Maps/UEDPIE_2_MainMenu
+[2017.11.20-12.24.16:154][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001204s)
+[2017.11.20-12.24.16:155][329]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.24.16:155][329]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2017.11.20-12.24.16:155][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP_SK/Maps/MainMenu.MainMenu to /Game/MP_SK/Maps/UEDPIE_2_MainMenu.MainMenu (0.002484s)
+[2017.11.20-12.24.16:156][329]LogLoad: Game class is 'GameModeBase'
+[2017.11.20-12.24.16:157][329]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.20-14.24.16
+[2017.11.20-12.24.16:158][329]LogWorld: Bringing up level for play took: 0.001797
+[2017.11.20-12.24.16:159][329]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.20-12.24.16:163][329]LogLoad: Took 0.028436 seconds to LoadMap(/Game/MP_SK/Maps/UEDPIE_2_MainMenu)
+[2017.11.20-12.24.19:230][609]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2017.11.20-12.24.25:358][202]LogNet: Browse: 192.168.10.1//Game/MP_SK/Maps/MainMenu
+[2017.11.20-12.24.25:359][202]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.25:359][202]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2017.11.20-12.24.25:359][202]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.20-12.24.25:359][202]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.20-12.24.25:359][202]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.25:359][202]LogNet: Game client on port 7777, rate 10000
+[2017.11.20-12.24.25:372][203]LogNet: NotifyAcceptingConnection accepted from: 192.168.10.1:18293
+[2017.11.20-12.24.25:372][203]LogHandshake: SendConnectChallenge. Timestamp: 10.061308, Cookie: 089077117048012204100051129090057023235064050093248236019123
+[2017.11.20-12.24.25:373][203]LogHandshake: SendChallengeResponse. Timestamp: 10.061308, Cookie: 089077117048012204100051129090057023235064050093248236019123
+[2017.11.20-12.24.25:383][204]LogNet: NotifyAcceptingConnection accepted from: 192.168.10.1:18293
+[2017.11.20-12.24.25:383][204]LogHandshake: SendChallengeAck. InCookie: 089077117048012204100051129090057023235064050093248236019123
+[2017.11.20-12.24.25:383][204]LogNet: Server accepting post-challenge connection from: 192.168.10.1:18293
+[2017.11.20-12.24.25:383][204]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.25:383][204]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 11/20/17 14:24:25, [UNetConnection] RemoteAddr: 192.168.10.1:18293, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.25:383][204]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.10.1:18293, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.25:384][204]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.10.1:7777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.20-12.24.25:393][205]LogNet: NotifyAcceptingChannel Control 0 server World /Game/MP_SK/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2017.11.20-12.24.25:393][205]LogNet: Remote platform little endian=1
+[2017.11.20-12.24.25:393][205]LogNet: This platform little endian=1
+[2017.11.20-12.24.25:403][206]LogNet: Login request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-9150A03647938D8B36AED788FEE84E2A userId: WIN-UJSDDQRV49J-9150A03647938D8B36AED788FEE84E2A
+[2017.11.20-12.24.25:403][206]LogNet: Welcomed by server (Level: /Game/MP_SK/Maps/UEDPIE_1_Lobby, Game: /Game/MP_SK/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2017.11.20-12.24.25:409][206]LogLoad: LoadMap: 192.168.10.1//Game/MP_SK/Maps/UEDPIE_1_Lobby?game=/Game/MP_SK/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2017.11.20-12.24.25:634][206]LogAIModule: Creating AISystem for world Lobby
+[2017.11.20-12.24.25:635][206]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.25:636][206]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_2_Lobby.Lobby up for play (max tick rate 0) at 2017.11.20-14.24.25
+[2017.11.20-12.24.25:636][206]LogWorld: Bringing up level for play took: 0.000462
+[2017.11.20-12.24.25:636][206]LogLoad: Took 0.226901 seconds to LoadMap(/Game/MP_SK/Maps/UEDPIE_1_Lobby)
+[2017.11.20-12.24.25:651][207]LogNet: Client netspeed is 10000
+[2017.11.20-12.24.25:652][207]LogNet: Join request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-9150A03647938D8B36AED788FEE84E2A?SplitscreenCount=1
+[2017.11.20-12.24.25:652][207]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.20-12.24.25:653][207]LogNet: Join succeeded: WIN-UJSDDQRV49J-9150
+[2017.11.20-12.24.34:739][ 27]Cmd: servertravel /Game/MP_SK/Maps/TDM/Random_City
+[2017.11.20-12.24.34:910][ 27]LogGameMode: ProcessServerTravel: /Game/MP_SK/Maps/TDM/Random_City
+[2017.11.20-12.24.34:924][ 28]LogNet: Browse: 192.168.10.1//Game/MP_SK/Maps/TDM/Random_City?game=/Game/MP_SK/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2017.11.20-12.24.34:925][ 28]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2017.11.20-12.24.34:925][ 28]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2017.11.20-12.24.34:925][ 28]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.10.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, Channels: 11, Time: 2017.11.20-12.24.34
+[2017.11.20-12.24.34:925][ 28]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.10.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0
+[2017.11.20-12.24.34:925][ 28]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2017.11.20-12.24.34:925][ 28]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.34:925][ 28]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2017.11.20-12.24.34:925][ 28]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.20-12.24.34:926][ 28]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.20-12.24.34:926][ 28]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.34:926][ 28]LogNet: Game client on port 7777, rate 10000
+[2017.11.20-12.24.34:927][ 28]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.34:948][ 29]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2017.11.20-12.24.34:948][ 29]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.10.1:18293, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1
+[2017.11.20-12.24.34:948][ 29]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.10.1:18293, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, Channels: 11, Time: 2017.11.20-12.24.34
+[2017.11.20-12.24.34:948][ 29]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.10.1:18293, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1
+[2017.11.20-12.24.34:948][ 29]LogNet: NotifyAcceptingConnection: Server Lobby refused
+[2017.11.20-12.24.34:949][ 29]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.34:984][ 30]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:018][ 31]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:051][ 32]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:082][ 33]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:095][ 34]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:108][ 35]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:122][ 36]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:136][ 37]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:148][ 38]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:161][ 39]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:173][ 40]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:189][ 41]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:201][ 42]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:214][ 43]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:227][ 44]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:240][ 45]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:253][ 46]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:264][ 47]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:276][ 48]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:287][ 49]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:298][ 50]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:309][ 51]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:320][ 52]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:332][ 53]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:343][ 54]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:354][ 55]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:365][ 56]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:377][ 57]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:388][ 58]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:399][ 59]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:410][ 60]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:422][ 61]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:433][ 62]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:444][ 63]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:454][ 64]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:465][ 65]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:476][ 66]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:486][ 67]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:497][ 68]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:508][ 69]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:518][ 70]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:529][ 71]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:540][ 72]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:550][ 73]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:561][ 74]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:572][ 75]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:583][ 76]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:595][ 77]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:605][ 78]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:616][ 79]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:626][ 80]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:637][ 81]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:647][ 82]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:657][ 83]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:668][ 84]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:679][ 85]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:689][ 86]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:700][ 87]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:711][ 88]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:721][ 89]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:731][ 90]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:742][ 91]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:753][ 92]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:763][ 93]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:775][ 94]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:786][ 95]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:797][ 96]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:807][ 97]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:818][ 98]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:828][ 99]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:838][100]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:849][101]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:860][102]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:871][103]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:881][104]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:892][105]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:903][106]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:914][107]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:925][108]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:936][109]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:946][110]LogNet: NotifyAcceptingConnection: Server Lobby refused
+[2017.11.20-12.24.35:947][110]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:958][111]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:969][112]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:979][113]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.35:990][114]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:002][115]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:013][116]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:023][117]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:035][118]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:046][119]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:056][120]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:068][121]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:079][122]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:090][123]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:101][124]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:112][125]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:122][126]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:134][127]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:146][128]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:156][129]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:168][130]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:178][131]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:188][132]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:199][133]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:209][134]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:220][135]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:231][136]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:241][137]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:252][138]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:263][139]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:274][140]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:285][141]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:296][142]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:306][143]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:317][144]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:328][145]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:338][146]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:353][147]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:369][148]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:382][149]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:397][150]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:411][151]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:425][152]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:439][153]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:454][154]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:468][155]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:482][156]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:496][157]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:511][158]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:525][159]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:539][160]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:554][161]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:570][162]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:584][163]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:598][164]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:612][165]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:626][166]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:641][167]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:655][168]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:671][169]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:685][170]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:699][171]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:712][172]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:727][173]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:740][174]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:756][175]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:771][176]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:786][177]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:800][178]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:816][179]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:830][180]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:844][181]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:858][182]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:872][183]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:887][184]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:901][185]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:917][186]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:931][187]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:946][188]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:959][189]LogNet: NotifyAcceptingConnection: Server Lobby refused
+[2017.11.20-12.24.36:960][189]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:974][190]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.36:989][191]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:003][192]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:020][193]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:035][194]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:049][195]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:063][196]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:078][197]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:091][198]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:106][199]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:120][200]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:135][201]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:151][202]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:168][203]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:184][204]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:198][205]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:212][206]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:226][207]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:240][208]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:255][209]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:269][210]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:283][211]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:297][212]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:311][213]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:326][214]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:340][215]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:355][216]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:369][217]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:383][218]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:397][219]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:411][220]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:426][221]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:440][222]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:454][223]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:469][224]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:482][225]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:497][226]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:512][227]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:527][228]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:541][229]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:556][230]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:571][231]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:585][232]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:598][233]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:612][234]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:628][235]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:642][236]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:656][237]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:670][238]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:684][239]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:697][240]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:710][241]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:725][242]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:741][243]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:755][244]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:768][245]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:780][246]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:793][247]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:804][248]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:816][249]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:828][250]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:841][251]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:853][252]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:865][253]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:879][254]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:890][255]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:902][256]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:915][257]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:926][258]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:938][259]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:949][260]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:960][261]LogNet: NotifyAcceptingConnection: Server Lobby refused
+[2017.11.20-12.24.37:961][261]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:973][262]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:984][263]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.37:994][264]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:005][265]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:016][266]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:027][267]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:038][268]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:049][269]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:060][270]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:071][271]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:082][272]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:093][273]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:103][274]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:113][275]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:126][276]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:137][277]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:149][278]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:159][279]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:170][280]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:181][281]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:192][282]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:203][283]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:214][284]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:227][285]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:237][286]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:249][287]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:259][288]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:270][289]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:281][290]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:293][291]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:304][292]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:317][293]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:330][294]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:343][295]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:356][296]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:369][297]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:380][298]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:391][299]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:402][300]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:413][301]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:424][302]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:435][303]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:445][304]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:455][305]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:465][306]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:475][307]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:485][308]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:497][309]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:507][310]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:517][311]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:527][312]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:537][313]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:547][314]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:557][315]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:567][316]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:577][317]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:587][318]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:598][319]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:607][320]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:618][321]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:628][322]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:637][323]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:648][324]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:657][325]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:668][326]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:678][327]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:687][328]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:697][329]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.38:706][330]LogEngine: Server switch level: /Game/MP_SK/Maps/TDM/Random_City
+[2017.11.20-12.24.38:706][330]LogNet: Browse: /Game/MP_SK/Maps/TDM/Random_City?listen
+[2017.11.20-12.24.38:713][330]LogLoad: LoadMap: /Game/MP_SK/Maps/TDM/Random_City?listen
+[2017.11.20-12.24.38:713][330]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2017.11.20-12.24.38:713][330]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2017.11.20-12.24.38:713][330]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2017.11.20-12.24.42:250][330]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.20-12.24.42:250][330]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.11.20-12.24.42:250][330]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.11.20-12.24.43:562][330]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.20-12.24.43:563][330]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2017.11.20-12.24.43:563][330]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2017.11.20-12.24.43:884][330]LogAIModule: Creating AISystem for world Random_City
+[2017.11.20-12.24.43:884][330]LogLoad: Game class is 'TDM_GM_C'
+[2017.11.20-12.24.43:885][330]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.43:885][330]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2017.11.20-12.24.43:885][330]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.43:885][330]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.20-12.24.43:886][330]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.43:886][330]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 7777
+[2017.11.20-12.24.43:904][330]LogWorld: Bringing World /Game/MP_SK/Maps/TDM/UEDPIE_1_Random_City.Random_City up for play (max tick rate 0) at 2017.11.20-14.24.43
+[2017.11.20-12.24.43:904][330]LogWorld: Bringing up level for play took: 0.017598
+[2017.11.20-12.24.43:906][330]LogLoad: Took 5.192529 seconds to LoadMap(/Game/MP_SK/Maps/TDM/Random_City)
+[2017.11.20-12.24.43:906][330]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.01, Realtime: 5.21. IpNetDriver_7
+[2017.11.20-12.24.43:907][330]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.43:966][331]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.24, Realtime: 0.06. IpNetDriver_8
+[2017.11.20-12.24.43:967][331]LogNet: NotifyAcceptingConnection accepted from: 192.168.10.1:18295
+[2017.11.20-12.24.43:967][331]LogHandshake: SendConnectChallenge. Timestamp: 5.247418, Cookie: 070083091029096190230042008250116248229152216023122135225011
+[2017.11.20-12.24.43:967][331]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.24, Realtime: 0.06. IpNetDriver_7
+[2017.11.20-12.24.43:967][331]LogHandshake: SendChallengeResponse. Timestamp: 5.247418, Cookie: 070083091029096190230042008250116248229152216023122135225011
+[2017.11.20-12.24.43:968][331]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.43:986][332]LogNet: NotifyAcceptingConnection accepted from: 192.168.10.1:18295
+[2017.11.20-12.24.43:986][332]LogHandshake: SendChallengeAck. InCookie: 070083091029096190230042008250116248229152216023122135225011
+[2017.11.20-12.24.43:986][332]LogNet: Server accepting post-challenge connection from: 192.168.10.1:18295
+[2017.11.20-12.24.43:987][332]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.24.43:987][332]LogNet: NotifyAcceptedConnection: Name: Random_City, TimeStamp: 11/20/17 14:24:43, [UNetConnection] RemoteAddr: 192.168.10.1:18295, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.43:987][332]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.10.1:18295, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.24.43:987][332]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.10.1:7777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.20-12.24.43:988][332]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.44:026][333]LogNet: NotifyAcceptingChannel Control 0 server World /Game/MP_SK/Maps/TDM/UEDPIE_1_Random_City.Random_City: Accepted
+[2017.11.20-12.24.44:026][333]LogNet: Remote platform little endian=1
+[2017.11.20-12.24.44:026][333]LogNet: This platform little endian=1
+[2017.11.20-12.24.44:027][333]LogWorld: Warning: SetActiveLevelCollection attempted to use an out of date NetDriver: GameNetDriver
+[2017.11.20-12.24.44:063][334]LogNet: Login request: /Game/MP_SK/Maps/TDM/Random_City?game=/Game/MP_SK/Blueprints/Lobby/LobbyGM.LobbyGM_C?Name=WIN-UJSDDQRV49J-9150A03647938D8B36AED788FEE84E2A userId: WIN-UJSDDQRV49J-9150A03647938D8B36AED788FEE84E2A
+[2017.11.20-12.24.44:063][334]LogNet: Welcomed by server (Level: /Game/MP_SK/Maps/TDM/UEDPIE_1_Random_City, Game: /Game/MP_SK/Blueprints/GamePlay/TDM_Mode/TDM_GM.TDM_GM_C)
+[2017.11.20-12.24.44:101][334]LogLoad: LoadMap: 192.168.10.1//Game/MP_SK/Maps/TDM/UEDPIE_1_Random_City?game=/Game/MP_SK/Blueprints/GamePlay/TDM_Mode/TDM_GM.TDM_GM_C
+[2017.11.20-12.24.45:131][334]LogAIModule: Creating AISystem for world Random_City
+[2017.11.20-12.24.45:132][334]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.24.45:137][334]LogWorld: Bringing World /Game/MP_SK/Maps/TDM/UEDPIE_2_Random_City.Random_City up for play (max tick rate 0) at 2017.11.20-14.24.45
+[2017.11.20-12.24.45:137][334]LogWorld: Bringing up level for play took: 0.004227
+[2017.11.20-12.24.45:137][334]LogLoad: Took 1.036851 seconds to LoadMap(/Game/MP_SK/Maps/TDM/UEDPIE_1_Random_City)
+[2017.11.20-12.24.45:169][335]LogNet: Client netspeed is 10000
+[2017.11.20-12.24.45:169][335]LogNet: Join request: /Game/MP_SK/Maps/TDM/Random_City?game=/Game/MP_SK/Blueprints/Lobby/LobbyGM.LobbyGM_C?Name=WIN-UJSDDQRV49J-9150A03647938D8B36AED788FEE84E2A?SplitscreenCount=1
+[2017.11.20-12.24.45:170][335]LogNet: Join succeeded: WIN-UJSDDQRV49J-9150
+[2017.11.20-12.24.47:242][487]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor TDM_Assault_C_0. Function SRV_SetTeamColor will not be processed.
+[2017.11.20-12.25.13:738][383]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor TDM_Assault_C_2. Function SRV_SetTeamColor will not be processed.
+[2017.11.20-12.25.23:187][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.25.23:237][ 75]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.25.23:237][ 75]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.20-12.25.23:243][ 75]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.20-12.25.23:243][ 75]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.20-12.25.23:276][ 75]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.25.23:276][ 75]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.20-12.25.23:276][ 75]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.20-12.25.23:276][ 75]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.20-12.25.23:276][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.11.20-12.25.23:277][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.25.23:295][ 75]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.10.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: TDM_PC_C_0, Owner: TDM_PC_C_0
+[2017.11.20-12.25.23:295][ 75]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.10.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: TDM_PC_C_0, Owner: TDM_PC_C_0, Channels: 12, Time: 2017.11.20-12.25.23
+[2017.11.20-12.25.23:295][ 75]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.10.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: TDM_PC_C_0, Owner: TDM_PC_C_0
+[2017.11.20-12.25.23:299][ 75]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.10.1:18295, Name: None, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2017.11.20-12.25.23:299][ 75]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.10.1:18295, Name: None, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 1, Time: 2017.11.20-12.25.23
+[2017.11.20-12.25.23:299][ 75]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.10.1:18295, Name: None, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2017.11.20-12.25.23:299][ 75]LogExit: GameNetDriver None shut down
+[2017.11.20-12.25.23:301][ 75]LogExit: GameNetDriver None shut down
+[2017.11.20-12.25.23:325][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2017.11.20-12.25.23:325][ 76]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.25.23:325][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2017.11.20-12.25.23:325][ 76]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.25.44:398][924]BlueprintLog: New page: Compile PlayerInfoLine
+[2017.11.20-12.25.45:270][967]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.20-12.25.45:282][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.25.45:283][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-12.25.45:284][967]PIE: New page: PIE session: MainMenu (Nov 20, 2017, 4:25:45 PM)
+[2017.11.20-12.25.45:285][967]LogPlayLevel: Creating play world package: /Game/MP_SK/Maps/UEDPIE_1_MainMenu
+[2017.11.20-12.25.45:286][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001051s)
+[2017.11.20-12.25.45:286][967]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.25.45:286][967]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2017.11.20-12.25.45:287][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP_SK/Maps/MainMenu.MainMenu to /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu (0.002118s)
+[2017.11.20-12.25.45:313][967]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-12.25.45:323][967]LogInit: FAudioDevice initialized.
+[2017.11.20-12.25.45:365][967]LogLoad: Game class is 'GameModeBase'
+[2017.11.20-12.25.45:367][967]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.20-14.25.45
+[2017.11.20-12.25.45:367][967]LogWorld: Bringing up level for play took: 0.000667
+[2017.11.20-12.25.45:379][967]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.25.45:379][967]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2017.11.20-12.25.45:379][967]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.25.45:380][967]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.20-12.25.45:380][967]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.25.45:380][967]LogNet: GameNetDriver IpNetDriver_9 IpNetDriver listening on port 17777
+[2017.11.20-12.25.45:388][967]PIE: Play in editor start time for /Game/MP_SK/Maps/UEDPIE_1_MainMenu 0.258
+[2017.11.20-12.25.45:390][967]PIE: New page: PIE session: MainMenu (Nov 20, 2017, 4:25:45 PM)
+[2017.11.20-12.25.45:438][967]LogNet: Browse: 127.0.0.1:17777//Game/MP_SK/Maps/MainMenu
+[2017.11.20-12.25.45:438][967]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.25.45:438][967]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2017.11.20-12.25.45:438][967]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.20-12.25.45:438][967]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.20-12.25.45:439][967]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.25.45:439][967]LogNet: Game client on port 17777, rate 10000
+[2017.11.20-12.25.45:445][967]PIE: Play in editor start time for /Game/MP_SK/Maps/MainMenu 0.316
+[2017.11.20-12.25.45:461][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.25.45:462][967]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:8746
+[2017.11.20-12.25.45:463][967]LogHandshake: SendConnectChallenge. Timestamp: 0.016676, Cookie: 161217117040059117013046250230065202079042075213057205035224
+[2017.11.20-12.25.45:463][967]LogHandshake: SendChallengeResponse. Timestamp: 0.016676, Cookie: 161217117040059117013046250230065202079042075213057205035224
+[2017.11.20-12.25.45:573][968]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:8746
+[2017.11.20-12.25.45:573][968]LogHandshake: SendChallengeAck. InCookie: 161217117040059117013046250230065202079042075213057205035224
+[2017.11.20-12.25.45:573][968]LogNet: Server accepting post-challenge connection from: 127.0.0.1:8746
+[2017.11.20-12.25.45:573][968]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.25.45:573][968]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 11/20/17 14:25:45, [UNetConnection] RemoteAddr: 127.0.0.1:8746, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.25.45:573][968]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:8746, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.20-12.25.45:574][968]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_10, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.20-12.25.45:595][969]LogNet: NotifyAcceptingChannel Control 0 server World /Game/MP_SK/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.11.20-12.25.45:595][969]LogNet: Remote platform little endian=1
+[2017.11.20-12.25.45:595][969]LogNet: This platform little endian=1
+[2017.11.20-12.25.45:627][970]LogNet: Login request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-9C42BEF245FC257748CCE192D8721249 userId: WIN-UJSDDQRV49J-9C42BEF245FC257748CCE192D8721249
+[2017.11.20-12.25.45:628][970]LogNet: Welcomed by server (Level: /Game/MP_SK/Maps/UEDPIE_1_MainMenu, Game: /Script/Engine.GameModeBase)
+[2017.11.20-12.25.45:631][970]LogLoad: LoadMap: 127.0.0.1:17777//Game/MP_SK/Maps/UEDPIE_1_MainMenu?game=/Script/Engine.GameModeBase
+[2017.11.20-12.25.45:653][970]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.25.45:653][970]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.25.45:655][970]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.20-14.25.45
+[2017.11.20-12.25.45:656][970]LogWorld: Bringing up level for play took: 0.000660
+[2017.11.20-12.25.45:656][970]LogLoad: Took 0.025040 seconds to LoadMap(/Game/MP_SK/Maps/UEDPIE_1_MainMenu)
+[2017.11.20-12.25.45:681][971]LogNet: Client netspeed is 10000
+[2017.11.20-12.25.45:681][971]LogNet: Join request: /Game/MP_SK/Maps/MainMenu?Name=WIN-UJSDDQRV49J-9C42BEF245FC257748CCE192D8721249?SplitscreenCount=1
+[2017.11.20-12.25.45:682][971]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.25.45:682][971]LogNet: Join succeeded: WIN-UJSDDQRV49J-9C42
+[2017.11.20-12.25.45:730][973]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.25.45:755][974]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2017.11.20-12.25.47:800][ 67]LogNet: Browse: /Game/MP_SK/Maps/Lobby?listen
+[2017.11.20-12.25.47:805][ 67]LogLoad: LoadMap: /Game/MP_SK/Maps/Lobby?listen
+[2017.11.20-12.25.47:805][ 67]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2017.11.20-12.25.47:805][ 67]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2017.11.20-12.25.47:806][ 67]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:8746, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.25.47:806][ 67]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:8746, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 10, Time: 2017.11.20-12.25.47
+[2017.11.20-12.25.47:806][ 67]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:8746, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.25.47:806][ 67]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2017.11.20-12.25.47:887][ 67]LogAIModule: Creating AISystem for world Lobby
+[2017.11.20-12.25.47:887][ 67]LogLoad: Game class is 'LobbyGM_C'
+[2017.11.20-12.25.47:887][ 67]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.25.47:887][ 67]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2017.11.20-12.25.47:887][ 67]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.20-12.25.47:888][ 67]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.20-12.25.47:888][ 67]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.20-12.25.47:888][ 67]LogNet: GameNetDriver IpNetDriver_11 IpNetDriver listening on port 7777
+[2017.11.20-12.25.47:889][ 67]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2017.11.20-14.25.47
+[2017.11.20-12.25.47:889][ 67]LogWorld: Bringing up level for play took: 0.000889
+[2017.11.20-12.25.47:890][ 67]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.20-12.25.47:895][ 67]LogLoad: Took 0.089727 seconds to LoadMap(/Game/MP_SK/Maps/Lobby)
+[2017.11.20-12.25.47:896][ 67]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.20-12.25.47:896][ 67]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.20-12.25.47:896][ 67]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.11.20-12.25.47:896][ 67]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_10, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 10, Time: 2017.11.20-12.25.47
+[2017.11.20-12.25.47:896][ 67]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_10, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2017.11.20-12.25.47:896][ 67]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.20-12.25.47:896][ 67]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.20-12.25.47:896][ 67]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.11.20-12.25.47:929][ 68]LogNet: Browse: /Game/MP_SK/Maps/MainMenu?closed
+[2017.11.20-12.25.47:929][ 68]LogNet: Failed; returning to Entry
+[2017.11.20-12.25.47:934][ 68]LogLoad: LoadMap: /Game/MP_SK/Maps/MainMenu?closed
+[2017.11.20-12.25.47:934][ 68]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2017.11.20-12.25.47:934][ 68]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2017.11.20-12.25.47:934][ 68]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2017.11.20-12.25.47:956][ 68]LogPlayLevel: Creating play world package: /Game/MP_SK/Maps/UEDPIE_2_MainMenu
+[2017.11.20-12.25.47:957][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001122s)
+[2017.11.20-12.25.47:957][ 68]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.20-12.25.47:957][ 68]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2017.11.20-12.25.47:958][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP_SK/Maps/MainMenu.MainMenu to /Game/MP_SK/Maps/UEDPIE_2_MainMenu.MainMenu (0.002162s)
+[2017.11.20-12.25.47:958][ 68]LogLoad: Game class is 'GameModeBase'
+[2017.11.20-12.25.47:959][ 68]LogWorld: Bringing World /Game/MP_SK/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.20-14.25.47
+[2017.11.20-12.25.47:959][ 68]LogWorld: Bringing up level for play took: 0.000846
+[2017.11.20-12.25.47:960][ 68]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.20-12.25.47:962][ 68]LogLoad: Took 0.028083 seconds to LoadMap(/Game/MP_SK/Maps/UEDPIE_2_MainMenu)
+[2017.11.20-12.25.51:323][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.25.51:367][215]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.25.51:367][215]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.20-12.25.51:368][215]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.20-12.25.51:368][215]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.20-12.25.51:391][215]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.25.51:391][215]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.20-12.25.51:392][215]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.20-12.25.51:392][215]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.20-12.25.51:392][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.11.20-12.25.51:393][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MP_SK/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MP_SK/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.20-12.25.51:415][215]LogExit: GameNetDriver None shut down
+[2017.11.20-12.25.51:442][216]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2017.11.20-12.25.51:442][216]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.25.51:442][216]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2017.11.20-12.25.51:442][216]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.25.54:710][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP_SK/UI/Lobby/AdditionalLobbyWidgets/PlayerInfoLine" FILE="D:/User/Downloads/MP_SK/Content/MP_SK/UI/Lobby/AdditionalLobbyWidgets/PlayerInfoLine.uasset" SILENT=true
+[2017.11.20-12.25.54:810][407]LogSavePackage: Save=92.04ms
+[2017.11.20-12.25.54:810][407]LogSavePackage: Moving 'D:/User/Downloads/MP_SK/Saved/PlayerInfoLine93EFBDE34BC47F67121907BED90C66AB.tmp' to 'D:/User/Downloads/MP_SK/Content/MP_SK/UI/Lobby/AdditionalLobbyWidgets/PlayerInfoLine.uasset'
+[2017.11.20-12.25.54:814][407]LogSavePackage: Display: Finished SavePackage D:/User/Downloads/MP_SK/Content/MP_SK/UI/Lobby/AdditionalLobbyWidgets/PlayerInfoLine.uasset
+[2017.11.20-12.25.55:727][509]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.20-12.25.55:891][510]Cmd: QUIT_EDITOR
+[2017.11.20-12.25.55:989][510]LogExit: Preparing to exit.
+[2017.11.20-12.25.56:449][510]LogExit: Editor shut down
+[2017.11.20-12.25.56:454][510]LogExit: Transaction tracking system shut down
+[2017.11.20-12.25.56:637][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.20-12.25.56:637][510]LogDirectoryWatcher: A directory notification for 'D:/User/Downloads/MP_SK/Content/' was aborted.
+[2017.11.20-12.25.56:637][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.20-12.25.56:637][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.20-12.25.56:637][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.20-12.25.56:637][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.20-12.25.56:637][510]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.20-12.25.56:753][510]LogExit: Object subsystem successfully closed.
+[2017.11.20-12.25.56:772][510]LogD3D11RHI: Shutdown
+[2017.11.20-12.25.56:772][510]LogD3D11RHI: CleanupD3DDevice
+[2017.11.20-12.25.56:774][510]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.20-12.25.56:786][510]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2017.11.20-12.25.56:786][510]LogModuleManager: Shutting down and abandoning module Voice (556)
+[2017.11.20-12.25.56:786][510]LogModuleManager: Shutting down and abandoning module SequencerWidgets (554)
+[2017.11.20-12.25.56:786][510]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2017.11.20-12.25.56:786][510]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2017.11.20-12.25.56:786][510]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2017.11.20-12.25.56:787][510]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2017.11.20-12.25.56:787][510]LogDirectoryWatcher: A directory notification for 'E:/GAMES/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2017.11.20-12.25.56:788][510]LogDirectoryWatcher: A directory notification for 'D:/User/Downloads/MP_SK/Content/Collections/' was aborted.
+[2017.11.20-12.25.56:788][510]LogDirectoryWatcher: A directory notification for 'D:/User/Downloads/MP_SK/Content/Developers/User/Collections/' was aborted.
+[2017.11.20-12.25.56:788][510]LogDirectoryWatcher: A directory notification for 'D:/User/Downloads/MP_SK/Saved/Collections/' was aborted.
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2017.11.20-12.25.56:788][510]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2017.11.20-12.25.56:789][510]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2017.11.20-12.25.56:839][510]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2017.11.20-12.25.56:913][510]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2017.11.20-12.25.56:913][510]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2017.11.20-12.25.56:913][510]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2017.11.20-12.25.56:913][510]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2017.11.20-12.25.56:913][510]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2017.11.20-12.25.56:913][510]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2017.11.20-12.25.56:913][510]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2017.11.20-12.25.56:913][510]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2017.11.20-12.25.56:913][510]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2017.11.20-12.25.56:914][510]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2017.11.20-12.25.56:934][510]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2017.11.20-12.25.56:934][510]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2017.11.20-12.25.56:934][510]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2017.11.20-12.25.56:934][510]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2017.11.20-12.25.56:935][510]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2017.11.20-12.25.57:000][510]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2017.11.20-12.25.57:001][510]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2017.11.20-12.25.57:001][510]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2017.11.20-12.25.57:001][510]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2017.11.20-12.25.57:001][510]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2017.11.20-12.25.57:001][510]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2017.11.20-12.25.57:001][510]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2017.11.20-12.25.57:002][510]LogModuleManager: Shutting down and abandoning module UdpMessaging (258)
+[2017.11.20-12.25.57:103][510]LogModuleManager: Shutting down and abandoning module TcpMessaging (256)
+[2017.11.20-12.25.57:288][510]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (254)
+[2017.11.20-12.25.57:289][510]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (252)
+[2017.11.20-12.25.57:289][510]LogModuleManager: Shutting down and abandoning module FacialAnimation (250)
+[2017.11.20-12.25.57:289][510]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (248)
+[2017.11.20-12.25.57:289][510]LogModuleManager: Shutting down and abandoning module GraphEditor (247)
+[2017.11.20-12.25.57:289][510]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2017.11.20-12.25.57:291][510]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2017.11.20-12.25.57:291][510]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2017.11.20-12.25.57:291][510]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2017.11.20-12.25.57:291][510]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2017.11.20-12.25.57:291][510]LogModuleManager: Shutting down and abandoning module ImgMedia (234)
+[2017.11.20-12.25.57:291][510]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2017.11.20-12.25.57:292][510]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2017.11.20-12.25.57:292][510]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2017.11.20-12.25.57:292][510]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2017.11.20-12.25.57:292][510]LogModuleManager: Shutting down and abandoning module Media (225)
+[2017.11.20-12.25.57:297][510]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2017.11.20-12.25.57:297][510]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2017.11.20-12.25.57:297][510]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2017.11.20-12.25.57:298][510]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2017.11.20-12.25.57:302][510]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2017.11.20-12.25.57:302][510]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2017.11.20-12.25.57:302][510]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2017.11.20-12.25.57:302][510]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2017.11.20-12.25.57:302][510]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2017.11.20-12.25.57:302][510]LogModuleManager: Shutting down and abandoning module Core (178)
+[2017.11.20-12.25.57:303][510]LogModuleManager: Shutting down and abandoning module LevelSequence (174)
+[2017.11.20-12.25.57:303][510]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (172)
+[2017.11.20-12.25.57:304][510]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2017.11.20-12.25.57:304][510]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2017.11.20-12.25.57:304][510]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2017.11.20-12.25.57:304][510]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2017.11.20-12.25.57:304][510]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2017.11.20-12.25.57:304][510]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2017.11.20-12.25.57:304][510]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2017.11.20-12.25.57:304][510]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2017.11.20-12.25.57:304][510]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2017.11.20-12.25.57:357][510]LogDerivedDataCache: Shutdown
+[2017.11.20-12.25.57:357][510]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2017.11.20-12.25.57:358][510]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2017.11.20-12.25.57:359][510]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2017.11.20-12.25.57:360][510]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2017.11.20-12.25.57:360][510]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2017.11.20-12.25.57:360][510]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2017.11.20-12.25.57:360][510]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2017.11.20-12.25.57:360][510]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2017.11.20-12.25.57:360][510]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2017.11.20-12.25.57:360][510]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2017.11.20-12.25.57:360][510]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2017.11.20-12.25.57:360][510]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.20-12.25.57:360][510]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.20-12.25.57:376][510]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.20-12.25.57:377][510]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.20-12.25.57:377][510]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.20-12.25.57:377][510]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.20-12.25.57:377][510]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.20-12.25.57:377][510]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B93B5F5DB-45D3-3FE0-F20D-B19BC66E6699%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=134b382047b27bae3a18a49ff484add9%7C73b0627aa4fe417d8c65ba84b96b6b06%7C1a2a9581-3aaf-47e6-bf6c-c630d47315c5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.20-12.25.57:411][510]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.20-12.25.57:413][510]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.20-12.25.57:413][510]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.20-12.25.57:413][510]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.20-12.25.57:413][510]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.20-12.25.57:413][510]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.20-12.25.57:413][510]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.20-12.25.57:413][510]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.20-12.25.57:416][510]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.20-12.25.57:422][510]LogExit: Exiting.
+[2017.11.20-12.25.57:440][510]Log file closed, 11/20/17 14:25:57
